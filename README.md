@@ -1,4 +1,4 @@
-# Svelt in Docker
+# Svelte in Docker
 
 ## Starting the project
 
