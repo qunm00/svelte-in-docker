@@ -2,7 +2,7 @@
 
 ## Starting the project
 
-Run following commands to start the projec
+Run following commands to start the project
 
 ``` 
 docker compose run --rm frontend 
